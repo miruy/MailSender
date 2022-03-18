@@ -1,4 +1,4 @@
-package mail;
+package repository;
 
 import java.util.Random;
 
